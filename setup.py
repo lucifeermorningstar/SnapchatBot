@@ -10,9 +10,9 @@ setup(
     version='0.1',
     description='Library for building Snapchat bots',
     long_description=open('README.md').read(),
-    author='Anastasis Germanidis',
-    author_email='agermanidis@gmail.com',
-    url='https://github.com/agermanidis/SnapchatBot',
+    author='Navjot Singh Manshahia',
+    author_email='navjotsinghmanshahia@gmail.com',
+    url='https://github.com/lucifeermorningstar/SnapchatBot',
     packages=['snapchat_bots'],
     install_requires=[
         'schedule>=0.3.1',
